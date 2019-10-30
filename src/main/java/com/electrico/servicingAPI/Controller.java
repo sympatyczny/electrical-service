@@ -71,3 +71,7 @@ public class Controller {
       assortmentService.saveItems(itemsRepresentation);
     }
 }
+
+
+
+
